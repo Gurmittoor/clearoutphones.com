@@ -1,0 +1,4 @@
+﻿main = "src/backend/server.js"
+name = "clearoutphones-api"
+compatibility_date = "2025-10-17"
+
