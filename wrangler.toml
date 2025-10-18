@@ -1,4 +1,6 @@
-﻿main = "src/backend/server.js"
-name = "clearoutphones-api"
+﻿name = "clearoutphones-api"
+main = "src/backend/server.js"
 compatibility_date = "2025-10-17"
 
+account_id = "284fcd9dc9e9cd34850fc14087ac3352"
+api_token = "74897e4545697da0b94155e0fa7a536b"
